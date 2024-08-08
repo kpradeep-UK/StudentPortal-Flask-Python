@@ -34,7 +34,7 @@ The Student Portal is a web application built using Flask, a lightweight WSGI we
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/StudentPortal-Flask-Python.git
+   git clone https://github.com/kpradeep-UK/StudentPortal-Flask-Python.git
    
 2. **Navigate to the project directory:**
    cd StudentPortal-Flask-Python
